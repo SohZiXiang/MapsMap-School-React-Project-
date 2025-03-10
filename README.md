@@ -65,7 +65,7 @@ As part of the team, I contributed to the following features:
 
 2. **Live Bus Timings (LTA DataMall API)**:
    - Integrated the LTA DataMall API to fetch real-time bus arrival timings, with automatic refreshing at set intervals to provide users with accurate and up-to-date information.
-    ![bus](imgs/bus timing.png)
+    ![bus](imgs/bus.png)
 
 3. **Real-time Parking Availability (LTA DataMall API)**:
    - Developed the feature to fetch and dynamically update real-time parking availability data, providing users with accurate occupancy and available parking spaces in selected areas.
